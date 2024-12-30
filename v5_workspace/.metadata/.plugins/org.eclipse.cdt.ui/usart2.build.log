@@ -1,0 +1,6 @@
+09:58:33 **** Incremental Build of configuration GNU ARM v12.2.1 - Debug for project usart2 ****
+make -j4 all 
+make: Nothing to be done for 'all'.
+
+09:58:33 Build Finished. 0 errors, 0 warnings. (took 273ms)
+

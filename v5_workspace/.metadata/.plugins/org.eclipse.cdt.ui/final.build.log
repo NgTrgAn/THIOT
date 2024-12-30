@@ -1,0 +1,6 @@
+11:48:09 **** Incremental Build of configuration GNU ARM v12.2.1 - Default for project final ****
+make -j4 all 
+make: Nothing to be done for 'all'.
+
+11:48:10 Build Finished. 0 errors, 0 warnings. (took 883ms)
+

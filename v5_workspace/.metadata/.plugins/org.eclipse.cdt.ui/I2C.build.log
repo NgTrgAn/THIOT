@@ -1,0 +1,6 @@
+23:18:43 **** Incremental Build of configuration GNU ARM v12.2.1 - Debug for project I2C ****
+make -j4 all 
+make: Nothing to be done for 'all'.
+
+23:18:44 Build Finished. 0 errors, 0 warnings. (took 1s.12ms)
+

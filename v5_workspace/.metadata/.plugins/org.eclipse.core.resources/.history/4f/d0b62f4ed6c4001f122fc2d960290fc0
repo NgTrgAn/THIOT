@@ -1,0 +1,184 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <stdint.h>
+#include <windows.h>
+
+#define BUFFER_SIZE 256
+
+HANDLE open_port(const char* device, unsigned long baud_rate, unsigned char bit_size, unsigned char parity) {
+    HANDLE port = CreateFileA(device, GENERIC_READ | GENERIC_WRITE, 0, NULL,
+        OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, NULL);
+    if (port == INVALID_HANDLE_VALUE)
+    {
+        return INVALID_HANDLE_VALUE;
+    }
+
+    BOOL success = FlushFileBuffers(port);
+    if (!success)
+    {
+        printf("Failed to flush serial port");
+        CloseHandle(port);
+        return INVALID_HANDLE_VALUE;
+    }
+
+    COMMTIMEOUTS timeouts = { 0 };
+    timeouts.ReadIntervalTimeout = 0;
+    timeouts.ReadTotalTimeoutConstant = 100;
+    timeouts.ReadTotalTimeoutMultiplier = 0;
+    timeouts.WriteTotalTimeoutConstant = 100;
+    timeouts.WriteTotalTimeoutMultiplier = 0;
+
+    success = SetCommTimeouts(port, &timeouts);
+    if (!success)
+    {
+        printf("Failed to set serial timeouts");
+        CloseHandle(port);
+        return INVALID_HANDLE_VALUE;
+    }
+
+    DCB dcb = { 0 };
+    dcb.DCBlength = sizeof(DCB);
+    dcb.BaudRate = baud_rate;
+    dcb.ByteSize = bit_size;
+    dcb.Parity = parity;
+    dcb.StopBits = ONESTOPBIT;
+    success = SetCommState(port, &dcb);
+    if (!success)
+    {
+        printf("Failed to set serial settings");
+        CloseHandle(port);
+        return INVALID_HANDLE_VALUE;
+    }
+
+    printf("----------------------------------\n");
+    printf("baud rate = %d\n", dcb.BaudRate);
+    printf("Parity = %d\n", dcb.Parity);
+    printf("Byte Size = %d\n", dcb.ByteSize);
+    printf("Stop Bit = %d\n", dcb.StopBits);
+    printf("----------------------------------\n");
+    return port;
+}
+
+int uart_transmit(HANDLE port, unsigned char* TX_buf, unsigned int TX_buf_len) {
+    int writtenbytes = 0;
+    if (WriteFile(port, TX_buf, TX_buf_len, (LPDWORD)&writtenbytes, NULL)) {
+        if (writtenbytes == 0) {
+            printf("WriteFile() timed out\n");
+            return -1;
+        }
+    }
+    else {
+        printf("WriteFile() failed\n");
+        return -1;
+    }
+    printf("%d bytes were written\n", writtenbytes);
+    return 0;
+}
+
+int uart_receive(HANDLE port, int* RX_buf_len, unsigned char* RX_buf) {
+    char readbuf;
+    int nbbytes = 0;
+
+    if (ReadFile(port, &readbuf, 1, (LPDWORD)&nbbytes, NULL)) {
+        if (nbbytes == 0) {
+            printf("ReadFile() timed out\n");
+            return -1;
+        }
+    }
+    else {
+        printf("ReadFile() failed\n");
+        return -1;
+    }
+    *RX_buf_len = 1;
+    RX_buf[0] = readbuf;
+
+    return 0;
+}
+
+void set_measurement_cycle(HANDLE port, uint16_t cycle) {
+    unsigned char command[3] = { 0x01, (cycle >> 8) & 0xFF, cycle & 0xFF };
+    uart_transmit(port, command, 3);
+}
+
+void set_ble_broadcast_cycle(HANDLE port, uint8_t cycle) {
+    unsigned char command[2] = { 0x01, cycle};
+    uart_transmit(port, command, 2);
+}
+
+void get_temp_humid(HANDLE port) {
+    unsigned char command[1] = {0x02};
+    uart_transmit(port, &command, 1);
+
+    unsigned char RX_buf[4];
+    int RX_buf_len = 0;
+    for (int i = 0; i < 4; i++) {
+        if (uart_receive(port, &RX_buf_len, &RX_buf[i]) != 0) {
+            printf("Failed to receive data\n");
+            return;
+        }
+    }
+
+    printf("Temperature: %d.%d C, Humidity: %d.%d%%\n", RX_buf[0], RX_buf[1], RX_buf[2], RX_buf[3]);
+}
+
+int main()
+{
+    const char* device = "\\\\.\\COM23";
+    unsigned long baud_rate = 115200;
+    unsigned char bit_size = 8;
+    unsigned char parity = 0;
+
+    HANDLE port = open_port(device, baud_rate, bit_size, parity);
+    if (port == INVALID_HANDLE_VALUE) {
+        printf("Failed to open serial port\n");
+        return -1;
+    }
+
+    printf("Enter -1 to exit the program.\n");
+
+    while (1) {
+        int choice;
+        printf("1. Set Measurement Cycle\n");
+        printf("2. Get Temperature and Humidity\n");
+        printf("Enter your choice: ");
+        scanf("%d", &choice);
+
+        // Convert choice to string
+
+        char choice_str[10];
+        sprintf(choice_str, "%d", choice);
+        uart_transmit(port, (unsigned char*)choice_str, strlen(choice_str));
+     
+        
+        if (choice == -1) {
+            printf("Exiting program...\n");
+            break;
+        }
+
+        switch (choice) {
+            case 1:
+                {
+                    uint16_t cycle;
+                    printf("Enter measurement cycle (ms): ");
+                    scanf("%hu", &cycle);
+                    set_measurement_cycle(port, cycle);
+                }
+                break;
+            case 2:
+                {
+
+                    get_temp_humid(port);
+                }
+                break;
+            default:
+                printf("Invalid choice\n");
+                break;
+        }
+    }
+
+    if (!CloseHandle(port)) {
+        printf("CloseHandle() failed\n");
+        return -1;
+    }
+    return 0;
+}

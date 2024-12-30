@@ -1,0 +1,8 @@
+#ifndef GLOBALS_H
+#define GLOBALS_H
+
+#include <stdint.h>
+
+extern uint8_t ble_broadcast_cycle;
+
+#endif // GLOBALS_H

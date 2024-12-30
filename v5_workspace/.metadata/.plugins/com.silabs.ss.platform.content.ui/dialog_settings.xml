@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="DIALOG_WIDTH" value="904"/>
+	<item key="DIALOG_HEIGHT" value="507"/>
+	<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.134328|0|WINDOWS|1|-17|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	<list key="addDescrsLocationHistory">
+		<item value="E:\THIOT\simplicity_sdk_suite_v2024_6_2"/>
+		<item value="E:\THIOT\simplicity_sdk_suite_v2024_6_2\simplicity_sdk_5"/>
+		<item value="E:\THIOT\gecko_sdk_4_4_5\gecko_sdk_4_4_5"/>
+	</list>
+</section>

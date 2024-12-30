@@ -1,0 +1,6 @@
+09:43:32 **** Clean-only build of configuration GNU ARM v12.2.1 - Default for project CK4 ****
+make -j4 clean 
+Command canceled
+
+09:43:40 Build Cancelled. (took 7s.704ms)
+

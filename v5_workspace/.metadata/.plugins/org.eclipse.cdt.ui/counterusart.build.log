@@ -1,0 +1,6 @@
+23:19:15 **** Incremental Build of configuration GNU ARM v12.2.1 - Debug for project counterusart ****
+make -j4 all 
+make: Nothing to be done for 'all'.
+
+23:19:16 Build Finished. 0 errors, 0 warnings. (took 1s.266ms)
+

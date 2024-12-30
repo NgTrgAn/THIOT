@@ -1,0 +1,2235 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              ./main.o (__aeabi_f2d)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+                              ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o (__aeabi_ldivmod)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o (__aeabi_uldivmod)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o (exit)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+                              ./main.o (sprintf)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (__sread)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o (memset)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o) (_close_r)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o) (errno)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o) (_impure_ptr)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o) (_lseek_r)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o) (_read_r)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o) (_write_r)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o (__libc_init_array)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o) (_free_r)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (_malloc_r)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o) (_svfprintf_r)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o) (_printf_i)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (_fflush_r)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o) (memmove)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o) (memchr)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o) (memcpy)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o) (_realloc_r)
+e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+                              e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o
+ .text          0x00000000        0x0 ./app.o
+ .data          0x00000000        0x0 ./app.o
+ .bss           0x00000000        0x0 ./app.o
+ .text          0x00000000        0x0 ./main.o
+ .data          0x00000000        0x0 ./main.o
+ .bss           0x00000000        0x0 ./main.o
+ .text.initTimer
+                0x00000000       0x28 ./main.o
+ .text          0x00000000        0x0 ./autogen/sl_board_default_init.o
+ .data          0x00000000        0x0 ./autogen/sl_board_default_init.o
+ .bss           0x00000000        0x0 ./autogen/sl_board_default_init.o
+ .text          0x00000000        0x0 ./autogen/sl_event_handler.o
+ .data          0x00000000        0x0 ./autogen/sl_event_handler.o
+ .bss           0x00000000        0x0 ./autogen/sl_event_handler.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .text.sl_board_enable_vcom
+                0x00000000       0x12 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .text.sl_board_enable_display
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .text.sl_board_disable_display
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .rodata.sl_board_enable_sensor.str1.1
+                0x00000000       0x64 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .text.sl_board_enable_sensor
+                0x00000000       0x5c ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .text.sl_board_disable_sensor
+                0x00000000       0x64 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .text.sl_board_enable_memory
+                0x00000000       0x28 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .text.sl_board_disable_memory
+                0x00000000       0x28 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .text.sl_board_enable_oscillator
+                0x00000000       0x1c ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .text.sl_board_disable_oscillator
+                0x00000000       0x1c ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .text.sli_cos_swo_itm_8_write.constprop.0.isra.0
+                0x00000000       0x78 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .text.sl_cos_config_pti
+                0x00000000       0x26 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .text.sl_cos_config_vcom
+                0x00000000       0x1e ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .text.SystemLFXOClockSet
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_CriticalDisableIrq
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_CriticalEnableIrq
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_YieldCritical
+                0x00000000       0x12 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_AtomicDisableIrq
+                0x00000000        0x8 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_AtomicEnableIrq
+                0x00000000        0x8 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_YieldAtomic
+                0x00000000       0x18 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_InIrqContext
+                0x00000000       0x14 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_IrqIsDisabled
+                0x00000000       0x1a ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_get_max_time_critical_section
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_get_max_time_atomic_section
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_clear_max_time_critical_section
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text.CORE_clear_max_time_atomic_section
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .text._close   0x00000000        0x6 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .text._fstat   0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .text._getpid  0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .text._isatty  0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .text._kill    0x00000000        0x6 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .text._lseek   0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .text._read    0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .text._write   0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .text._gettimeofday
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .text.sl_debug_swo_write_u8
+                0x00000000       0x44 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .text.sl_debug_swo_write_u16
+                0x00000000       0x44 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .text.sl_debug_swo_write_u32
+                0x00000000       0x44 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.BUS_RegMaskedWrite.constprop.0
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_CalibrateConfig
+                0x00000000       0xe0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_CalibrateCountGet
+                0x00000000       0x1c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_Calibrate
+                0x00000000       0x38 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_ClkOutPinConfig
+                0x00000000      0x17c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.sli_em_cmu_HFXOSetForceEnable
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.sli_em_cmu_SYSTICEXTCLKENSet
+                0x00000000       0x10 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_ClockSelectSet
+                0x00000000      0x350 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_LF_ClockPrecisionGet
+                0x00000000       0x18 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_HF_ClockPrecisionGet
+                0x00000000       0x18 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_HFRCODPLLBandGet
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_DPLLLock
+                0x00000000      0x244 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_HFXOCTuneSet
+                0x00000000       0x70 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_HFXOCTuneGet
+                0x00000000       0x48 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_HFXOCTuneDeltaSet
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_HFXOCTuneCurrentDeltaGet
+                0x00000000       0x18 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_HFXOCoreBiasCurrentCalibrate
+                0x00000000       0x58 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_LFXOPrecisionGet
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_HFXOPrecisionGet
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_OscillatorTuningGet
+                0x00000000       0x58 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_OscillatorTuningSet
+                0x00000000      0x13c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_UpdateWaitStates
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_PCNTClockExternalSet
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_HFRCOEM23BandGet
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .rodata.CSWTCH.71
+                0x00000000        0x3 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .rodata.hfrcoCalTable
+                0x00000000      0x190 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .rodata.internal_NvicIRQDisabled.str1.1
+                0x00000000       0x56 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.internal_NvicIRQDisabled
+                0x00000000       0x34 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_EnterNvicMask
+                0x00000000       0x2c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_NvicDisableMask
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_NvicEnableMask
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_YieldNvicMask
+                0x00000000       0x34 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_NvicMaskSetIRQ
+                0x00000000       0x30 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_NvicMaskClearIRQ
+                0x00000000       0x30 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_GetNvicEnabledMask
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_GetNvicMaskDisableState
+                0x00000000       0x2c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_NvicIRQDisabled
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_GetNvicRamTableHandler
+                0x00000000       0x2c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_SetNvicRamTableHandler
+                0x00000000       0x30 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_InitNvicVectorTable
+                0x00000000       0xcc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text.CORE_IrqIsBlocked
+                0x00000000       0x6c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .debug_info    0x00000000      0xf43 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .debug_abbrev  0x00000000      0x32d ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .debug_loc     0x00000000      0x815 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .debug_aranges
+                0x00000000       0x88 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .debug_ranges  0x00000000      0x140 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .debug_line    0x00000000      0x7ea ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .debug_str     0x00000000      0x9b2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .comment       0x00000000       0x46 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .debug_frame   0x00000000      0x198 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .ARM.attributes
+                0x00000000       0x3a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EM23Init
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EM23PresleepHook
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EFPEM23PresleepHook
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EM23PostsleepHook
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EFPEM23PostsleepHook
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EnterEM2
+                0x00000000       0x40 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EnterEM3
+                0x00000000       0x38 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_Save
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_Restore
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EM4PresleepHook
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EFPEM4PresleepHook
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EnterEM4
+                0x00000000       0x4c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EnterEM4Wait
+                0x00000000       0x14 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EnterEM4H
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_EnterEM4S
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_MemPwrDown
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_RamPowerDown
+                0x00000000       0x78 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_RamPowerUp
+                0x00000000       0x10 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_UpdateOscConfig
+                0x00000000        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text.EMU_TemperatureGet
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .rodata.BUS_RegBitWrite.str1.1
+                0x00000000       0x55 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .text.BUS_RegBitWrite
+                0x00000000       0x2c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .text.GPIO_ExtIntConfig
+                0x00000000       0xb0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .text.GPIO_PinModeGet
+                0x00000000       0x48 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .text.GPIO_EM4EnablePinWakeup
+                0x00000000       0x7c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .text.GPIO_EM4WUExtIntConfig
+                0x00000000       0x60 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ text_application_ram
+                0x00000000      0x1d4 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .rodata.str1.1
+                0x00000000       0x55 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .text.MSC_Init
+                0x00000000       0x18 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .text.MSC_Deinit
+                0x00000000       0x1c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .text.MSC_ExecConfigSet
+                0x00000000       0x18 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .text.MSC_WriteWordDma
+                0x00000000       0xe4 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .text.MSC_EccConfigSet
+                0x00000000      0x11c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .debug_info    0x00000000     0x1fd1 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .debug_abbrev  0x00000000      0x323 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .debug_loc     0x00000000      0x93a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .debug_aranges
+                0x00000000       0x68 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .debug_ranges  0x00000000       0xd8 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .debug_line    0x00000000      0x9c2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .debug_str     0x00000000     0x10f1 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .comment       0x00000000       0x46 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .debug_frame   0x00000000      0x134 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .ARM.attributes
+                0x00000000       0x3a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetCalibrationValue
+                0x00000000       0x30 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetSecurityCapability
+                0x00000000       0x28 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetUnique
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetProdRev
+                0x00000000       0x10 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetSRAMBaseAddress
+                0x00000000        0x6 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetSRAMSize
+                0x00000000       0x10 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetFlashSize
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetFlashPageSize
+                0x00000000       0x14 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetPartNumber
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetCalibrationTemperature
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text.SYSTEM_GetFamily
+                0x00000000       0x18 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .rodata.CSWTCH.11
+                0x00000000        0x3 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_BaudrateCalc
+                0x00000000       0x7c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_BaudrateGet
+                0x00000000       0x20 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_BaudrateSyncSet
+                0x00000000       0x48 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_Enable
+                0x00000000       0x4c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_InitPrsTrigger
+                0x00000000       0x60 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USARTn_InitIrDA
+                0x00000000       0x60 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_InitSync
+                0x00000000       0xb0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_InitI2s
+                0x00000000       0x70 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_RxDouble
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_RxDoubleExt
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_RxExt
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_SpiTransfer
+                0x00000000       0x14 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_TxDouble
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_TxDoubleExt
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_TxExt
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_get_oscillator_frequency
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_get_oscillator_precision
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_get_clock_branch_precision
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_disable_bus_clock
+                0x00000000        0x6 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_set_gpio_clock_output
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_set_rc_oscillator_calibration
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_get_rc_oscillator_calibration
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_set_hfxo_calibration
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_get_hfxo_calibration
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.slx_clock_manager_hfxo_set_ctune
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.slx_clock_manager_hfxo_get_ctune
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.slx_clock_manager_hfxo_calibrate_ctune
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_set_lfxo_calibration
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_get_lfxo_calibration
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_configure_rco_calibration
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_start_rco_calibration
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_stop_rco_calibration
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_wait_rco_calibration
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_get_rco_calibration_count
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sli_clock_manager_set_sysclk_source
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sli_clock_manager_get_sysclk_source
+                0x00000000        0xa ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_wait_usbpll
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .rodata.sl_clock_manager_hfxo_notify_consecutive_failed_startups.str1.1
+                0x00000000       0x6f ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text.sl_clock_manager_hfxo_notify_consecutive_failed_startups
+                0x00000000       0x10 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_get_oscillator_frequency
+                0x00000000       0x4c ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_get_oscillator_precision
+                0x00000000       0x36 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_get_clock_branch_precision
+                0x00000000       0x74 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_set_gpio_clock_output
+                0x00000000       0x6e ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_set_rc_oscillator_calibration
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_get_rc_oscillator_calibration
+                0x00000000       0x2c ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_set_hfxo_calibration
+                0x00000000       0x1c ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_get_hfxo_calibration
+                0x00000000       0x10 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_hfxo_set_ctune
+                0x00000000       0x1c ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_hfxo_get_ctune
+                0x00000000        0xe ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_hfxo_calibrate_ctune
+                0x00000000       0x48 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_set_lfxo_calibration
+                0x00000000       0x1c ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_get_lfxo_calibration
+                0x00000000       0x10 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_configure_rco_calibration
+                0x00000000       0x84 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_start_rco_calibration
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_stop_rco_calibration
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_wait_rco_calibration
+                0x00000000       0x18 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_get_rco_calibration_count
+                0x00000000       0x10 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_set_sysclk_source
+                0x00000000       0x80 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .rodata.sli_clock_manager_hal_get_sysclk_source.str1.1
+                0x00000000       0x76 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_get_sysclk_source
+                0x00000000       0x40 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text.sli_clock_manager_hal_wait_usbpll
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .rodata.CSWTCH.25
+                0x00000000        0x9 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_WDOG1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_WDOG0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_VDAC1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_VDAC0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_USB_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_USART2_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_USART1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_USART0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_ULFRCO_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_TIMER9_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_TIMER8_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_TIMER7_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_TIMER6_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_TIMER5_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_TIMER4_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_TIMER3_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_TIMER2_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_TIMER1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_TIMER0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SYSRTC0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SYSCFG_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SYNTH_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SYMCRYPTO_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SOCPLL0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SMU_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SEPORTAL_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SEMAPHORE1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SEMAPHORE0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SEMAILBOX_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_SCRATCHPAD_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RTCC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RPA_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RFSENSE_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RFSCRATCHPAD_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RFMAILBOX_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RFFPLL0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RFECA1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RFECA0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RFCRC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RDSCRATCHPAD_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RDMAILBOX1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RDMAILBOX0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RADIOAES_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_RAC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_PRS_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_PROTIMER_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_PRORTC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_PIXELRZ1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_PIXELRZ0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_PDM_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_PCNT0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_MVP_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_MSC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_MODEM_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_LPW0PORTAL_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_LFXO_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_LFRCO_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_LETIMER0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_LESENSE_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_LEDDRV0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_LDMAXBAR0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_LDMA0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_LCD_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_L2ICACHE0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_KSU_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_KEYSCAN_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_IFADCDEBUG_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_ICACHE0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_IADC0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_I2C3_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_I2C2_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_I2C1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_I2C0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_HOSTPORTAL_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_HOSTMAILBOX_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_HFXO0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_HFRCOEM23_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_HFRCO0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_GPCRC0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_FSRCO_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_FRC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_EUSART4_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_EUSART3_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_EUSART2_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_EUSART1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_EUSART0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_EUART0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_ETAMPDET_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_ECAIFADC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_DPLL0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_DMEM_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_DEVINFO_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_DCDC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_CRYPTOACC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_BURTC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_BURAM_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_BUFC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_AMUXCP0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_AGC_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_ADC0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_ACMP1_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .rodata.SL_BUS_CLOCK_ACMP0_VALUE
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.get_priority
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_reset_system
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_disable_interrupts
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_enable_interrupts
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_disable_irq
+                0x00000000       0x3c ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_is_irq_disabled
+                0x00000000       0x30 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_is_irq_blocked
+                0x00000000       0x68 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_is_irq_pending
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_set_irq_pending
+                0x00000000       0x1c ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_set_irq_handler
+                0x00000000        0x4 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_get_irq_priority
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_get_active_irq
+                0x00000000       0x24 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text.sl_interrupt_manager_get_isr_table
+                0x00000000        0xc ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .text.sl_memory_get_stack_region
+                0x00000000       0x10 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .text.sl_memory_get_heap_region
+                0x00000000       0x14 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .text          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+ .data          0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+ .bss           0x00000000        0x0 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000       0xa0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_line_str
+                0x00000000       0xcd e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x00000000       0x44 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000000       0x26 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .text          0x00000000       0x30 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line_str
+                0x00000000       0xcd e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x26 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .text.__udivmoddi4
+                0x00000000      0x2ec e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab.text.__udivmoddi4
+                0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx.text.__udivmoddi4
+                0x00000000        0x8 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_line_str
+                0x00000000       0xd1 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x26 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xac e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xfa e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x106 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .text          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtn.o
+ .data          0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtn.o
+ .bss           0x00000000        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x000fe000         xr
+RAM              0x20000000         0x00018000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crti.o
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o
+START GROUP
+LOAD ./app.o
+LOAD ./main.o
+LOAD ./autogen/sl_board_default_init.o
+LOAD ./autogen/sl_event_handler.o
+LOAD ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+LOAD ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+LOAD ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+LOAD ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+LOAD ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+LOAD ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+LOAD ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+LOAD ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+LOAD ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+LOAD ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+LOAD ./simplicity_sdk_2024.6.2/platform/emlib/src/em_core.o
+LOAD ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+LOAD ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+LOAD ./simplicity_sdk_2024.6.2/platform/emlib/src/em_msc.o
+LOAD ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+LOAD ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+LOAD ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+LOAD ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+LOAD ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+LOAD ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+LOAD ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+LOAD ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+LOAD ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+LOAD ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+LOAD ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+LOAD ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libm.a
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libnosys.a
+END GROUP
+START GROUP
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libnosys.a
+END GROUP
+START GROUP
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libg_nano.a
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a
+END GROUP
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtend.o
+LOAD e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtn.o
+
+.vectors        0x00000000      0x134
+                0x00000000                linker_vectors_begin = .
+ *(.vectors)
+ .vectors       0x00000000      0x134 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+                0x00000000                __Vectors
+                0x00000134                linker_vectors_end = .
+                0x00000134                __Vectors_End = .
+                0x00000134                __Vectors_Size = (__Vectors_End - __Vectors)
+                0x00000134                __lma_ramfuncs_start__ = .
+
+.stack          0x20000000     0x1000
+                0x20000000                . = ALIGN (0x8)
+                0x20000000                __StackLimit = .
+ *(.stack*)
+ .stack         0x20000000     0x1000 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+                0x20001000                . = ALIGN (0x4)
+                0x20001000                __StackTop = .
+                0x20001000                PROVIDE (__stack = __StackTop)
+
+.noinit
+ *(.noinit*)
+
+.bss            0x20001000      0x164
+                0x20001000                . = ALIGN (0x4)
+                0x20001000                __bss_start__ = .
+ *(SORT_BY_ALIGNMENT(.bss*))
+ .bss.object.0  0x20001000       0x18 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss.__sf      0x20001018      0x138 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x20001018                __sf
+ .bss.__stdio_exit_handler
+                0x20001150        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x20001150                __stdio_exit_handler
+ .bss.errno     0x20001154        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+                0x20001154                errno
+ .bss.__malloc_sbrk_start
+                0x20001158        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x20001158                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x2000115c        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x2000115c                __malloc_free_list
+ .bss.completed.1
+                0x20001160        0x1 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss.ctuneDelta
+                0x20001161        0x1 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .bss.__lock___malloc_recursive_mutex
+                0x20001162        0x1 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x20001162                __lock___malloc_recursive_mutex
+ *(COMMON)
+                0x20001164                . = ALIGN (0x4)
+ *fill*         0x20001163        0x1 
+                0x20001164                __bss_end__ = .
+
+text_application_ram
+                0x20001164        0x0 load address 0x00000134
+                0x20001164                . = ALIGN (0x4)
+                0x20001164                __vma_ramfuncs_start__ = .
+                0x20001164                __text_application_ram_start__ = .
+ *(text_application_ram)
+                0x20001164                . = ALIGN (0x4)
+                0x20001164                __vma_ramfuncs_end__ = .
+                0x20001164                __text_application_ram_end__ = .
+
+.rodata         0x00000134        0x0
+                0x00000134                __lma_ramfuncs_end__ = .
+                0x00000134                __rodata_start__ = .
+                0x00000134                __rodata_end__ = .
+
+.text           0x00000134     0x2a64
+                0x00000134                linker_code_begin = .
+ *(SORT_BY_ALIGNMENT(.text*))
+ .text.deregister_tm_clones
+                0x00000134       0x1c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.register_tm_clones
+                0x00000150       0x28 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x00000178       0x28 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x000001a0       0x24 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text          0x000001c4       0x7c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o
+                0x000001c4                _stack_init
+                0x000001cc                _start
+                0x000001cc                _mainCRTStartup
+ .text.initUSART0
+                0x00000240       0x54 ./main.o
+                0x00000240                initUSART0
+ .text.startup.main
+                0x00000294       0x98 ./main.o
+                0x00000294                main
+ .text.sl_platform_init
+                0x0000032c       0xa8 ./autogen/sl_event_handler.o
+                0x0000032c                sl_platform_init
+ .text.sl_board_init
+                0x000003d4       0x14 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+                0x000003d4                sl_board_init
+ .text.sl_board_preinit
+                0x000003e8        0xc ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+                0x000003e8                sl_board_preinit
+ .text.CopyToRam
+                0x000003f4       0x1c ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+                0x000003f4                CopyToRam
+ .text.Reset_Handler
+                0x00000410       0x64 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+                0x00000410                Reset_Handler
+ .text.SystemInit
+                0x00000474       0x58 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x00000474                SystemInit
+ .text.SystemHFRCODPLLClockGet
+                0x000004cc        0xc ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x000004cc                SystemHFRCODPLLClockGet
+ .text.SystemHFRCODPLLClockSet
+                0x000004d8        0xc ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x000004d8                SystemHFRCODPLLClockSet
+ .text.SystemSYSCLKGet
+                0x000004e4       0x34 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x000004e4                SystemSYSCLKGet
+ .text.SystemHCLKGet
+                0x00000518       0x24 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x00000518                SystemHCLKGet
+ .text.SystemMaxCoreClockGet
+                0x0000053c        0x8 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x0000053c                SystemMaxCoreClockGet
+ .text.SystemHFXOClockGet
+                0x00000544        0xc ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x00000544                SystemHFXOClockGet
+ .text.SystemHFXOClockSet
+                0x00000550       0x20 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x00000550                SystemHFXOClockSet
+ .text.SystemFSRCOClockGet
+                0x00000570        0x8 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x00000570                SystemFSRCOClockGet
+ .text.SystemHFRCOEM23ClockGet
+                0x00000578       0x88 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x00000578                SystemHFRCOEM23ClockGet
+ .text.SystemLFXOClockGet
+                0x00000600        0xc ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x00000600                SystemLFXOClockGet
+ .text.sl_debug_swo_init
+                0x0000060c       0xcc ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+                0x0000060c                sl_debug_swo_init
+ .text.flashWaitStateControl
+                0x000006d8       0x60 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.HFRCODPLLDevinfoGet
+                0x00000738      0x108 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.traceClkGet
+                0x00000840       0x48 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.em01GrpaClkGet
+                0x00000888       0x64 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.iadcClkGet
+                0x000008ec       0x60 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.em23GrpaClkGet
+                0x0000094c       0x48 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.em4GrpaClkGet
+                0x00000994       0x48 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.wdog0ClkGet
+                0x000009dc       0x64 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.wdog1ClkGet
+                0x00000a40       0x64 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.rtccClkGet
+                0x00000aa4       0x54 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.dpllRefClkGet
+                0x00000af8       0x48 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_ClockDivGet
+                0x00000b40       0x50 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00000b40                CMU_ClockDivGet
+ .text.CMU_ClockFreqGet
+                0x00000b90      0x104 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00000b90                CMU_ClockFreqGet
+ .text.pclkDivOptimize
+                0x00000c94       0x20 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.CMU_ClockDivSet
+                0x00000cb4       0xac ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00000cb4                CMU_ClockDivSet
+ .text.CMU_ClockSelectGet
+                0x00000d60       0xf8 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00000d60                CMU_ClockSelectGet
+ .text.sli_em_cmu_SYSTICEXTCLKENClear
+                0x00000e58       0x10 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00000e58                sli_em_cmu_SYSTICEXTCLKENClear
+ .text.CMU_HFRCODPLLBandSet
+                0x00000e68       0xd0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00000e68                CMU_HFRCODPLLBandSet
+ .text.CMU_HFXOInit
+                0x00000f38      0x1cc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00000f38                CMU_HFXOInit
+ .text.CMU_HFXOCTuneDeltaGet
+                0x00001104        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00001104                CMU_HFXOCTuneDeltaGet
+ .text.CMU_LFXOInit
+                0x00001110       0xb8 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00001110                CMU_LFXOInit
+ .text.CMU_LFXOPrecisionSet
+                0x000011c8        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x000011c8                CMU_LFXOPrecisionSet
+ .text.CMU_HFXOPrecisionSet
+                0x000011d4        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x000011d4                CMU_HFXOPrecisionSet
+ .text.CMU_HFRCOEM23BandSet
+                0x000011e0      0x144 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x000011e0                CMU_HFRCOEM23BandSet
+ .text.EMU_EM4Init
+                0x00001324       0x14 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+                0x00001324                EMU_EM4Init
+ .text.GPIO_PinOutSet
+                0x00001338       0x40 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .text.GPIO_PinOutClear
+                0x00001378       0x40 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .text.GPIO_PinModeSet
+                0x000013b8       0x90 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+                0x000013b8                GPIO_PinModeSet
+ .text.SYSTEM_ChipRevisionGet
+                0x00001448       0x1c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+                0x00001448                SYSTEM_ChipRevisionGet
+ .text.prsRxInput
+                0x00001464       0x44 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .text.USART_BaudrateAsyncSet
+                0x000014a8       0xe0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+                0x000014a8                USART_BaudrateAsyncSet
+ .text.USART_Reset
+                0x00001588       0x80 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+                0x00001588                USART_Reset
+ .text.USART_InitAsync
+                0x00001608      0x124 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+                0x00001608                USART_InitAsync
+ .text.sli_clock_manager_hal_init
+                0x0000172c      0x1a4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+                0x0000172c                sli_clock_manager_hal_init
+ .text.sl_device_init_emu
+                0x000018d0       0x24 ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+                0x000018d0                sl_device_init_emu
+ .text.sl_interrupt_manager_enable_irq
+                0x000018f4       0x34 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+                0x000018f4                sl_interrupt_manager_enable_irq
+ .text.sl_interrupt_manager_clear_irq_pending
+                0x00001928       0x1c ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+                0x00001928                sl_interrupt_manager_clear_irq_pending
+ .text.sl_interrupt_manager_set_irq_priority
+                0x00001944       0x50 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+                0x00001944                sl_interrupt_manager_set_irq_priority
+ .text._sbrk    0x00001994       0x20 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+                0x00001994                _sbrk
+ .text          0x000019b4      0x378 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x000019b4                __aeabi_drsub
+                0x000019bc                __aeabi_dsub
+                0x000019bc                __subdf3
+                0x000019c0                __aeabi_dadd
+                0x000019c0                __adddf3
+                0x00001c38                __floatunsidf
+                0x00001c38                __aeabi_ui2d
+                0x00001c58                __floatsidf
+                0x00001c58                __aeabi_i2d
+                0x00001c7c                __aeabi_f2d
+                0x00001c7c                __extendsfdf2
+                0x00001cc0                __floatundidf
+                0x00001cc0                __aeabi_ul2d
+                0x00001cd0                __floatdidf
+                0x00001cd0                __aeabi_l2d
+ .text.exit     0x00001d2c       0x24 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+                0x00001d2c                exit
+ .text.sprintf  0x00001d50       0x40 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+                0x00001d50                siprintf
+                0x00001d50                sprintf
+ .text.__libc_init_array
+                0x00001d90       0x48 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+                0x00001d90                __libc_init_array
+ .text._free_r  0x00001dd8       0x94 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+                0x00001dd8                _free_r
+ .text.sbrk_aligned
+                0x00001e6c       0x44 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00001eb0       0xf0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x00001eb0                _malloc_r
+ .text.__malloc_lock
+                0x00001fa0        0xc e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00001fa0                __malloc_lock
+ .text.__malloc_unlock
+                0x00001fac        0xc e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x00001fac                __malloc_unlock
+ .text._svfprintf_r
+                0x00001fb8      0x1f8 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                0x00001fb8                _svfiprintf_r
+                0x00001fb8                _svfprintf_r
+ .text._printf_i
+                0x000021b0      0x258 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x000021b0                _printf_i
+ .text._sbrk_r  0x00002408       0x20 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                0x00002408                _sbrk_r
+ .text.app_init
+                0x00002428        0x2 ./app.o
+                0x00002428                app_init
+ .text.app_process_action
+                0x0000242a        0x2 ./app.o
+                0x0000242a                app_process_action
+ .text.initGPIO
+                0x0000242c       0x2a ./main.o
+                0x0000242c                initGPIO
+ .text.sl_board_default_init
+                0x00002456        0x4 ./autogen/sl_board_default_init.o
+                0x00002456                sl_board_default_init
+ .text.sl_driver_init
+                0x0000245a        0xe ./autogen/sl_event_handler.o
+                0x0000245a                sl_driver_init
+ .text.sl_service_init
+                0x00002468        0x4 ./autogen/sl_event_handler.o
+                0x00002468                sl_service_init
+ .text.sl_stack_init
+                0x0000246c        0x2 ./autogen/sl_event_handler.o
+                0x0000246c                sl_stack_init
+ .text.sl_internal_app_init
+                0x0000246e        0x2 ./autogen/sl_event_handler.o
+                0x0000246e                sl_internal_app_init
+ .text.sl_platform_process_action
+                0x00002470        0x2 ./autogen/sl_event_handler.o
+                0x00002470                sl_platform_process_action
+ .text.sl_service_process_action
+                0x00002472        0x2 ./autogen/sl_event_handler.o
+                0x00002472                sl_service_process_action
+ .text.sl_stack_process_action
+                0x00002474        0x2 ./autogen/sl_event_handler.o
+                0x00002474                sl_stack_process_action
+ .text.sl_internal_app_process_action
+                0x00002476        0x2 ./autogen/sl_event_handler.o
+                0x00002476                sl_internal_app_process_action
+ .text.sl_board_configure_vcom
+                0x00002478        0x4 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+                0x00002478                sl_board_configure_vcom
+ .text.sl_board_disable_vcom
+                0x0000247c       0x12 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+                0x0000247c                sl_board_disable_vcom
+ .text.sl_cos_send_config
+                0x0000248e       0x12 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+                0x0000248e                sl_cos_send_config
+ .text.Default_Handler
+                0x000024a0        0x2 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+                0x000024a0                ULFRCO_IRQHandler
+                0x000024a0                SW2_IRQHandler
+                0x000024a0                TIMER2_IRQHandler
+                0x000024a0                DebugMon_Handler
+                0x000024a0                USART0_TX_IRQHandler
+                0x000024a0                PRORTC_IRQHandler
+                0x000024a0                IADC_IRQHandler
+                0x000024a0                I2C0_IRQHandler
+                0x000024a0                LFXO_IRQHandler
+                0x000024a0                HardFault_Handler
+                0x000024a0                SMU_SECURE_IRQHandler
+                0x000024a0                SysTick_Handler
+                0x000024a0                USART1_RX_IRQHandler
+                0x000024a0                PendSV_Handler
+                0x000024a0                NMI_Handler
+                0x000024a0                SYNTH_IRQHandler
+                0x000024a0                I2C1_IRQHandler
+                0x000024a0                WDOG0_IRQHandler
+                0x000024a0                TIMER3_IRQHandler
+                0x000024a0                SYSCFG_IRQHandler
+                0x000024a0                EMUSE_IRQHandler
+                0x000024a0                EMUDG_IRQHandler
+                0x000024a0                USART1_TX_IRQHandler
+                0x000024a0                SMU_PRIVILEGED_IRQHandler
+                0x000024a0                MSC_IRQHandler
+                0x000024a0                DPLL0_IRQHandler
+                0x000024a0                UsageFault_Handler
+                0x000024a0                WDOG1_IRQHandler
+                0x000024a0                M33CTI1_IRQHandler
+                0x000024a0                GPIO_EVEN_IRQHandler
+                0x000024a0                LDMA_IRQHandler
+                0x000024a0                SEMBTX_IRQHandler
+                0x000024a0                SW0_IRQHandler
+                0x000024a0                TIMER0_IRQHandler
+                0x000024a0                LETIMER0_IRQHandler
+                0x000024a0                TIMER1_IRQHandler
+                0x000024a0                HFRCO0_IRQHandler
+                0x000024a0                SecureFault_Handler
+                0x000024a0                BUFC_IRQHandler
+                0x000024a0                MODEM_IRQHandler
+                0x000024a0                USART2_RX_IRQHandler
+                0x000024a0                Default_Handler
+                0x000024a0                RAC_SEQ_IRQHandler
+                0x000024a0                FRC_PRI_IRQHandler
+                0x000024a0                EMU_IRQHandler
+                0x000024a0                SW3_IRQHandler
+                0x000024a0                KERNEL0_IRQHandler
+                0x000024a0                FRC_IRQHandler
+                0x000024a0                KERNEL1_IRQHandler
+                0x000024a0                AGC_IRQHandler
+                0x000024a0                sl_app_properties
+                0x000024a0                HFRCOEM23_IRQHandler
+                0x000024a0                BURTC_IRQHandler
+                0x000024a0                SEMBRX_IRQHandler
+                0x000024a0                LFRCO_IRQHandler
+                0x000024a0                ACMP0_IRQHandler
+                0x000024a0                USART0_RX_IRQHandler
+                0x000024a0                MemManage_Handler
+                0x000024a0                SVC_Handler
+                0x000024a0                RTCC_IRQHandler
+                0x000024a0                HFXO00_IRQHandler
+                0x000024a0                SW1_IRQHandler
+                0x000024a0                CMU_IRQHandler
+                0x000024a0                RAC_RSM_IRQHandler
+                0x000024a0                SETAMPERHOST_IRQHandler
+                0x000024a0                GPIO_ODD_IRQHandler
+                0x000024a0                AES_IRQHandler
+                0x000024a0                M33CTI0_IRQHandler
+                0x000024a0                ICACHE0_IRQHandler
+                0x000024a0                PROTIMER_IRQHandler
+                0x000024a0                ACMP1_IRQHandler
+                0x000024a0                BusFault_Handler
+                0x000024a0                USART2_TX_IRQHandler
+ .text.CopyBlock
+                0x000024a2       0x18 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+                0x000024a2                CopyBlock
+ .text.SystemCLKIN0Get
+                0x000024ba        0x4 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x000024ba                SystemCLKIN0Get
+ .text.SystemLFRCOClockGet
+                0x000024be        0x6 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x000024be                SystemLFRCOClockGet
+ .text.SystemULFRCOClockGet
+                0x000024c4        0x6 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x000024c4                SystemULFRCOClockGet
+ .text.assertEFM
+                0x000024ca        0x2 ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+                0x000024ca                assertEFM
+ .text.CORE_EnterCritical
+                0x000024cc        0x8 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+                0x000024cc                CORE_EnterCritical
+ .text.CORE_ExitCritical
+                0x000024d4        0x6 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+                0x000024d4                CORE_ExitCritical
+ .text.CORE_EnterAtomic
+                0x000024da        0xc ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+                0x000024da                CORE_EnterAtomic
+ .text.CORE_ExitAtomic
+                0x000024e6        0x6 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+                0x000024e6                CORE_ExitAtomic
+ .text._exit    0x000024ec        0x2 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+                0x000024ec                _exit
+ .text.sl_debug_swo_enable_itm
+                0x000024ee       0x16 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+                0x000024ee                sl_debug_swo_enable_itm
+ .text.sl_debug_swo_disable_itm
+                0x00002504       0x18 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+                0x00002504                sl_debug_swo_disable_itm
+ .text.waitStateMax
+                0x0000251c       0x10 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.pclkDivMax
+                0x0000252c        0x8 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .text.sli_em_cmu_SYSCLKInitPreClockSelect
+                0x00002534        0xe ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00002534                sli_em_cmu_SYSCLKInitPreClockSelect
+ .text.sli_em_cmu_SYSCLKInitPostClockSelect
+                0x00002542       0x1a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x00002542                sli_em_cmu_SYSCLKInitPostClockSelect
+ .text.BUS_RegMaskedWrite
+                0x0000255c       0x1e ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .text.GPIO_DbgLocationSet
+                0x0000257a        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+                0x0000257a                GPIO_DbgLocationSet
+ .text.USART_Rx
+                0x0000257c        0xc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+                0x0000257c                USART_Rx
+ .text.USART_Tx
+                0x00002588        0xa ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+                0x00002588                USART_Tx
+ .text.sl_clock_manager_runtime_init
+                0x00002592        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+                0x00002592                sl_clock_manager_runtime_init
+ .text.sl_clock_manager_get_clock_branch_frequency
+                0x00002596        0xa ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+                0x00002596                sl_clock_manager_get_clock_branch_frequency
+ .text.sl_clock_manager_enable_bus_clock
+                0x000025a0        0x6 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+                0x000025a0                sl_clock_manager_enable_bus_clock
+ .text.sli_clock_manager_hal_runtime_init
+                0x000025a6        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+                0x000025a6                sli_clock_manager_hal_runtime_init
+ .text.sli_clock_manager_hal_get_clock_branch_frequency
+                0x000025aa       0x82 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+                0x000025aa                sli_clock_manager_hal_get_clock_branch_frequency
+ .text.sli_clock_manager_hal_enable_bus_clock
+                0x0000262c        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+                0x0000262c                sli_clock_manager_hal_enable_bus_clock
+ .text.sl_clock_manager_init
+                0x00002630        0x4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+                0x00002630                sl_clock_manager_init
+ .text.sl_interrupt_manager_init
+                0x00002634       0x16 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+                0x00002634                sl_interrupt_manager_init
+ .text.sl_system_init
+                0x0000264a       0x1a ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+                0x0000264a                sl_system_init
+ .text.sl_system_process_action
+                0x00002664       0x16 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+                0x00002664                sl_system_process_action
+ .text.memset   0x0000267a       0x10 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+                0x0000267a                memset
+ .text.__retarget_lock_acquire_recursive
+                0x0000268a        0x2 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x0000268a                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000268c        0x2 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x0000268c                __retarget_lock_release_recursive
+ .text.__ssputs_r
+                0x0000268e       0xb6 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                0x0000268e                __ssputs_r
+ .text._printf_common
+                0x00002744       0xe4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x00002744                _printf_common
+ .text.memmove  0x00002828       0x34 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+                0x00002828                memmove
+ .text.memchr   0x0000285c       0x1c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+                0x0000285c                memchr
+ .text.memcpy   0x00002878       0x1a e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+                0x00002878                memcpy
+ .text._realloc_r
+                0x00002892       0x5c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+                0x00002892                _realloc_r
+ .text._malloc_usable_size_r
+                0x000028ee       0x10 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+                0x000028ee                _malloc_usable_size_r
+ *(SORT_BY_ALIGNMENT(text_*))
+                0x00002900                . = ALIGN (0x20)
+ *fill*         0x000028fe        0x2 
+                0x00002900                linker_code_end = .
+ *(.init)
+ .init          0x00002900        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crti.o
+                0x00002900                _init
+ .init          0x00002904        0x8 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000290c        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crti.o
+                0x0000290c                _fini
+ .fini          0x00002910        0x8 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x00002918       0x2e ./main.o
+ .rodata.HFRCODPLLDevinfoGet.str1.1
+                0x00002946       0x55 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .rodata.GPIO_PinOutSet.str1.1
+                0x0000299b       0x56 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .rodata.GPIO_ExtIntConfig.str1.1
+                0x000029f1       0x56 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .rodata.CSWTCH.31
+                0x00002a47        0x4 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .rodata.USART_BaudrateAsyncSet.str1.1
+                0x00002a4b       0x57 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ *fill*         0x00002aa2        0x2 
+ .rodata        0x00002aa4       0x3c ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .rodata.SL_BUS_CLOCK_GPIO_VALUE
+                0x00002ae0        0x4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+                0x00002ae0                SL_BUS_CLOCK_GPIO_VALUE
+ .rodata.sl_interrupt_manager_disable_irq.str1.1
+                0x00002ae4       0x7f ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .rodata._svfprintf_r.str1.1
+                0x00002b63       0x11 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .rodata._printf_i.str1.1
+                0x00002b74       0x22 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ *(.eh_frame*)
+ *fill*         0x00002b96        0x2 
+ .eh_frame      0x00002b98        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.glue_7         0x00002b98        0x0
+ .glue_7        0x00002b98        0x0 linker stubs
+
+.glue_7t        0x00002b98        0x0
+ .glue_7t       0x00002b98        0x0 linker stubs
+
+.vfp11_veneer   0x00002b98        0x0
+ .vfp11_veneer  0x00002b98        0x0 linker stubs
+
+.v4_bx          0x00002b98        0x0
+ .v4_bx         0x00002b98        0x0 linker stubs
+
+.iplt           0x00002b98        0x0
+ .iplt          0x00002b98        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00002b98                __exidx_start = .
+
+.ARM.exidx      0x00002b98        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00002b98        0x8 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o
+                                 0x10 (size before relaxing)
+                0x00002ba0                __exidx_end = .
+
+.rel.dyn        0x00002ba0        0x0
+ .rel.iplt      0x00002ba0        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.copy.table     0x00002ba0        0xc
+                0x00002ba0                . = ALIGN (0x4)
+                0x00002ba0                __copy_table_start__ = .
+                0x00002ba0        0x4 LONG 0x2bac __etext
+                0x00002ba4        0x4 LONG 0x20001164 __data_start__
+                0x00002ba8        0x4 LONG 0x1c ((__data_end__ - __data_start__) / 0x4)
+                0x00002bac                __copy_table_end__ = .
+
+.zero.table     0x00002bac        0x0
+                0x00002bac                . = ALIGN (0x4)
+                0x00002bac                __zero_table_start__ = .
+                0x00002bac                __zero_table_end__ = .
+                0x00002bac                __etext = .
+
+.data           0x20001164       0x70 load address 0x00002bac
+                0x20001164                . = ALIGN (0x4)
+                0x20001164                __data_start__ = .
+ *(vtable)
+ *(SORT_BY_ALIGNMENT(.data*))
+ .data.SystemCoreClock
+                0x20001164        0x4 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                0x20001164                SystemCoreClock
+ .data.SystemHFRCODPLLClock
+                0x20001168        0x4 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .data.SystemLFXOClock
+                0x2000116c        0x4 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .data.SystemHFXOClock
+                0x20001170        0x4 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .data.heap_end.0
+                0x20001174        0x4 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .data._impure_ptr
+                0x20001178        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x20001178                _impure_ptr
+ .data._impure_data
+                0x2000117c       0x4c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x2000117c                _impure_data
+ .data.hfxo_precision
+                0x200011c8        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .data.lfxo_precision
+                0x200011ca        0x2 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                0x200011cc                . = ALIGN (0x4)
+                0x200011cc                . = ALIGN (0x4)
+                0x200011cc                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x200011cc                PROVIDE (__preinit_array_end = .)
+                0x200011cc                . = ALIGN (0x4)
+                0x200011cc                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x200011cc        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x200011d0                PROVIDE (__init_array_end = .)
+                0x200011d0                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x200011d0        0x4 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x200011d4                . = ALIGN (0x4)
+                0x200011d4                __data_end__ = .
+
+.tm_clone_table
+                0x200011d4        0x0 load address 0x00002c1c
+ .tm_clone_table
+                0x200011d4        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x200011d4        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtend.o
+
+.igot.plt       0x200011d4        0x0 load address 0x00002c1c
+ .igot.plt      0x200011d4        0x0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.heap           0x200011d4        0x4 load address 0x00002c1c
+                0x200011d8                . = ALIGN (0x8)
+ *fill*         0x200011d4        0x4 
+                0x200011d8                __HeapBase = .
+                0x200011d8                __end__ = .
+                0x200011d8                end = __end__
+                0x200011d8                _end = __end__
+ *(.heap*)
+                0x20018000                __HeapLimit = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00016e28                __heap_size = (__HeapLimit - __HeapBase)
+                0x20018000                __ram_end__ = 0x20018000
+                0x000fe000                __main_flash_end__ = 0xfe000
+
+.internal_storage
+ *(.internal_storage*)
+
+.nvm
+ *(.simee*)
+                0x20001164                __ramfuncs_start__ = __vma_ramfuncs_start__
+                0x20001164                __ramfuncs_end__ = __vma_ramfuncs_end__
+                0x000fe000                linker_nvm_end = __main_flash_end__
+                0x000fe000                linker_nvm_begin = (linker_nvm_end - SIZEOF (.nvm))
+                0x000fe000                linker_storage_end = linker_nvm_begin
+                0x000fe000                __nvm3Base = linker_nvm_begin
+                0x000fe000                linker_storage_begin = (linker_storage_end - SIZEOF (.internal_storage))
+                0x00000001                ASSERT ((linker_storage_begin >= (__etext + SIZEOF (.data))), FLASH memory overflowed !)
+OUTPUT(counterusart.axf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x36
+ .ARM.attributes
+                0x00000000       0x26 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .ARM.attributes
+                0x00000026       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000005e       0x24 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000082       0x3a ./app.o
+ .ARM.attributes
+                0x000000bc       0x3a ./main.o
+ .ARM.attributes
+                0x000000f6       0x3a ./autogen/sl_board_default_init.o
+ .ARM.attributes
+                0x00000130       0x3a ./autogen/sl_event_handler.o
+ .ARM.attributes
+                0x0000016a       0x3a ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .ARM.attributes
+                0x000001a4       0x3a ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .ARM.attributes
+                0x000001de       0x3a ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .ARM.attributes
+                0x00000218       0x3a ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .ARM.attributes
+                0x00000252       0x3a ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .ARM.attributes
+                0x0000028c       0x3a ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .ARM.attributes
+                0x000002c6       0x3a ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .ARM.attributes
+                0x00000300       0x3a ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .ARM.attributes
+                0x0000033a       0x3a ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .ARM.attributes
+                0x00000374       0x3a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .ARM.attributes
+                0x000003ae       0x3a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .ARM.attributes
+                0x000003e8       0x3a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .ARM.attributes
+                0x00000422       0x3a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .ARM.attributes
+                0x0000045c       0x3a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .ARM.attributes
+                0x00000496       0x3a ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .ARM.attributes
+                0x000004d0       0x3a ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .ARM.attributes
+                0x0000050a       0x3a ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .ARM.attributes
+                0x00000544       0x3a ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .ARM.attributes
+                0x0000057e       0x3a ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .ARM.attributes
+                0x000005b8       0x3a ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .ARM.attributes
+                0x000005f2       0x3a ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .ARM.attributes
+                0x0000062c       0x3a ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .ARM.attributes
+                0x00000666       0x3a ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .ARM.attributes
+                0x000006a0       0x3a ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+ .ARM.attributes
+                0x000006da       0x26 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000700       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000738       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000770       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .ARM.attributes
+                0x000007a8       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x000007e0       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000818       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000850       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000888       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x000008c0       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x000008f8       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000930       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000968       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x000009a0       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x000009d8       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .ARM.attributes
+                0x00000a10       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000a48       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000a80       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000ab8       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .ARM.attributes
+                0x00000af0       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .ARM.attributes
+                0x00000b28       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000b60       0x26 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crtn.o
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 ./app.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 ./main.o
+ .comment       0x00000045       0x46 ./autogen/sl_board_default_init.o
+ .comment       0x00000045       0x46 ./autogen/sl_event_handler.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .comment       0x00000045       0x46 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+
+.debug_line_str
+                0x00000000      0x1b9
+ .debug_line_str
+                0x00000000       0xe7 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard/crt0.o
+ .debug_line_str
+                0x000000e7       0xd2 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+
+.debug_info     0x00000000    0x1ff74
+ .debug_info    0x00000000       0x50 ./app.o
+ .debug_info    0x00000050     0x287d ./main.o
+ .debug_info    0x000028cd       0xc5 ./autogen/sl_board_default_init.o
+ .debug_info    0x00002992     0x12b5 ./autogen/sl_event_handler.o
+ .debug_info    0x00003c47      0x50a ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .debug_info    0x00004151      0x13f ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .debug_info    0x00004290      0x4d5 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .debug_info    0x00004765      0x435 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .debug_info    0x00004b9a     0x1f2e ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .debug_info    0x00006ac8       0x86 ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .debug_info    0x00006b4e      0x91a ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .debug_info    0x00007468      0x306 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .debug_info    0x0000776e     0x1f05 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .debug_info    0x00009673     0x6a33 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .debug_info    0x000100a6     0x260b ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .debug_info    0x000126b1     0x1ea1 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .debug_info    0x00014552      0xec9 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .debug_info    0x0001541b     0x3ec6 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .debug_info    0x000192e1      0xb2e ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .debug_info    0x00019e0f     0x21f0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .debug_info    0x0001bfff       0xc9 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .debug_info    0x0001c0c8     0x1876 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .debug_info    0x0001d93e      0x89c ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .debug_info    0x0001e1da      0xbe4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .debug_info    0x0001edbe      0xe94 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .debug_info    0x0001fc52      0x1e8 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .debug_info    0x0001fe3a       0xa7 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .debug_info    0x0001fee1       0x93 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+
+.debug_abbrev   0x00000000     0x3883
+ .debug_abbrev  0x00000000       0x4a ./app.o
+ .debug_abbrev  0x0000004a      0x2ec ./main.o
+ .debug_abbrev  0x00000336       0x87 ./autogen/sl_board_default_init.o
+ .debug_abbrev  0x000003bd      0x23f ./autogen/sl_event_handler.o
+ .debug_abbrev  0x000005fc      0x18a ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .debug_abbrev  0x00000786       0xed ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .debug_abbrev  0x00000873      0x20f ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .debug_abbrev  0x00000a82      0x287 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .debug_abbrev  0x00000d09      0x30d ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .debug_abbrev  0x00001016       0x6c ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .debug_abbrev  0x00001082      0x253 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .debug_abbrev  0x000012d5      0x143 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .debug_abbrev  0x00001418      0x335 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .debug_abbrev  0x0000174d      0x53f ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .debug_abbrev  0x00001c8c      0x337 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .debug_abbrev  0x00001fc3      0x334 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .debug_abbrev  0x000022f7      0x2aa ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .debug_abbrev  0x000025a1      0x33a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .debug_abbrev  0x000028db      0x1ba ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .debug_abbrev  0x00002a95      0x3ec ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .debug_abbrev  0x00002e81       0x89 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .debug_abbrev  0x00002f0a      0x29a ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .debug_abbrev  0x000031a4      0x14b ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .debug_abbrev  0x000032ef       0x69 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .debug_abbrev  0x00003358      0x355 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .debug_abbrev  0x000036ad      0x11e ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .debug_abbrev  0x000037cb       0x5c ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .debug_abbrev  0x00003827       0x5c ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+
+.debug_aranges  0x00000000      0xb40
+ .debug_aranges
+                0x00000000       0x28 ./app.o
+ .debug_aranges
+                0x00000028       0x38 ./main.o
+ .debug_aranges
+                0x00000060       0x20 ./autogen/sl_board_default_init.o
+ .debug_aranges
+                0x00000080       0x60 ./autogen/sl_event_handler.o
+ .debug_aranges
+                0x000000e0       0x70 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .debug_aranges
+                0x00000150       0x28 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .debug_aranges
+                0x00000178       0x38 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .debug_aranges
+                0x000001b0       0x38 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .debug_aranges
+                0x000001e8       0x90 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .debug_aranges
+                0x00000278       0x20 ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .debug_aranges
+                0x00000298       0x98 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .debug_aranges
+                0x00000330       0x68 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .debug_aranges
+                0x00000398       0x48 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .debug_aranges
+                0x000003e0      0x1b8 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .debug_aranges
+                0x00000598       0xc0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .debug_aranges
+                0x00000658       0x68 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .debug_aranges
+                0x000006c0       0x78 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .debug_aranges
+                0x00000738       0xc0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .debug_aranges
+                0x000007f8       0xe8 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .debug_aranges
+                0x000008e0       0xd8 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .debug_aranges
+                0x000009b8       0x20 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .debug_aranges
+                0x000009d8       0x20 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .debug_aranges
+                0x000009f8       0x20 ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .debug_aranges
+                0x00000a18       0x18 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .debug_aranges
+                0x00000a30       0xa0 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .debug_aranges
+                0x00000ad0       0x30 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .debug_aranges
+                0x00000b00       0x20 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .debug_aranges
+                0x00000b20       0x20 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+
+.debug_ranges   0x00000000      0xda0
+ .debug_ranges  0x00000000       0x18 ./app.o
+ .debug_ranges  0x00000018       0x60 ./main.o
+ .debug_ranges  0x00000078       0x10 ./autogen/sl_board_default_init.o
+ .debug_ranges  0x00000088       0x50 ./autogen/sl_event_handler.o
+ .debug_ranges  0x000000d8       0x60 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .debug_ranges  0x00000138       0x18 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .debug_ranges  0x00000150       0x40 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .debug_ranges  0x00000190       0x90 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .debug_ranges  0x00000220       0x80 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .debug_ranges  0x000002a0       0x10 ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .debug_ranges  0x000002b0       0x88 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .debug_ranges  0x00000338       0x58 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .debug_ranges  0x00000390       0x50 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .debug_ranges  0x000003e0      0x330 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .debug_ranges  0x00000710      0x130 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .debug_ranges  0x00000840       0x70 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .debug_ranges  0x000008b0       0x80 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .debug_ranges  0x00000930       0xd0 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .debug_ranges  0x00000a00       0xd8 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .debug_ranges  0x00000ad8       0xe8 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .debug_ranges  0x00000bc0       0x10 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .debug_ranges  0x00000bd0       0x88 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .debug_ranges  0x00000c58       0x10 ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .debug_ranges  0x00000c68       0xf8 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .debug_ranges  0x00000d60       0x20 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .debug_ranges  0x00000d80       0x10 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .debug_ranges  0x00000d90       0x10 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+
+.debug_line     0x00000000     0xa254
+ .debug_line    0x00000000       0x4c ./app.o
+ .debug_line    0x0000004c      0x504 ./main.o
+ .debug_line    0x00000550      0x1e8 ./autogen/sl_board_default_init.o
+ .debug_line    0x00000738      0x67f ./autogen/sl_event_handler.o
+ .debug_line    0x00000db7      0x448 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .debug_line    0x000011ff      0x2c4 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .debug_line    0x000014c3      0x495 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .debug_line    0x00001958      0x344 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .debug_line    0x00001c9c      0x60e ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .debug_line    0x000022aa       0xab ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .debug_line    0x00002355      0x53a ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .debug_line    0x0000288f      0x1ab ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .debug_line    0x00002a3a      0x6fc ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .debug_line    0x00003136     0x27a6 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .debug_line    0x000058dc      0x759 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .debug_line    0x00006035      0x68f ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .debug_line    0x000066c4      0x47d ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .debug_line    0x00006b41      0xd04 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .debug_line    0x00007845      0x5ed ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .debug_line    0x00007e32      0xbab ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .debug_line    0x000089dd      0x1fb ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .debug_line    0x00008bd8      0x4d4 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .debug_line    0x000090ac      0x2ce ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .debug_line    0x0000937a      0x1d4 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+ .debug_line    0x0000954e      0x818 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .debug_line    0x00009d66      0x2eb ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .debug_line    0x0000a051       0xfd ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .debug_line    0x0000a14e      0x106 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+
+.debug_str      0x00000000     0xa8be
+ .debug_str     0x00000000      0x141 ./app.o
+                                0x15d (size before relaxing)
+ .debug_str     0x00000141     0x1afa ./main.o
+                               0x1e55 (size before relaxing)
+ .debug_str     0x00001c3b       0x5b ./autogen/sl_board_default_init.o
+                                0x22b (size before relaxing)
+ .debug_str     0x00001c96      0x7c5 ./autogen/sl_event_handler.o
+                                0xc8c (size before relaxing)
+ .debug_str     0x0000245b      0x2ac ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+                                0x6ef (size before relaxing)
+ .debug_str     0x00002707       0xa5 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+                                0x2c7 (size before relaxing)
+ .debug_str     0x000027ac      0x1ef ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+                                0x421 (size before relaxing)
+ .debug_str     0x0000299b      0x1cc ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+                                0x3a3 (size before relaxing)
+ .debug_str     0x00002b67      0xa08 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+                               0x1442 (size before relaxing)
+ .debug_str     0x0000356f       0x63 ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+                                0x1aa (size before relaxing)
+ .debug_str     0x000035d2      0x249 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+                                0x54f (size before relaxing)
+ .debug_str     0x0000381b       0xb1 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+                                0x28a (size before relaxing)
+ .debug_str     0x000038cc      0x701 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+                               0x162a (size before relaxing)
+ .debug_str     0x00003fcd     0x179d ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+                               0x30ed (size before relaxing)
+ .debug_str     0x0000576a      0x52a ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+                               0x161f (size before relaxing)
+ .debug_str     0x00005c94      0x127 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+                               0x124b (size before relaxing)
+ .debug_str     0x00005dbb      0x319 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+                                0xcc8 (size before relaxing)
+ .debug_str     0x000060d4     0x2113 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+                               0x3866 (size before relaxing)
+ .debug_str     0x000081e7      0x92d ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+                                0xc1b (size before relaxing)
+ .debug_str     0x00008b14      0x593 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+                               0x2093 (size before relaxing)
+ .debug_str     0x000090a7       0x8f ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+                                0x281 (size before relaxing)
+ .debug_str     0x00009136      0x751 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+                               0x1a5e (size before relaxing)
+ .debug_str     0x00009887       0x7b ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+                                0x760 (size before relaxing)
+ .debug_str     0x00009902      0xae6 ./simplicity_sdk_2024.6.2/platform/service/device_manager/src/sl_device_clock.o
+                                0xcce (size before relaxing)
+ .debug_str     0x0000a3e8      0x2fb ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+                                0xa88 (size before relaxing)
+ .debug_str     0x0000a6e3      0x105 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+                                0x2fd (size before relaxing)
+ .debug_str     0x0000a7e8       0x66 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+                                0x200 (size before relaxing)
+ .debug_str     0x0000a84e       0x70 ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+                                0x22d (size before relaxing)
+
+.debug_frame    0x00000000     0x1f3c
+ .debug_frame   0x00000000       0x30 ./app.o
+ .debug_frame   0x00000030       0x8c ./main.o
+ .debug_frame   0x000000bc       0x20 ./autogen/sl_board_default_init.o
+ .debug_frame   0x000000dc       0xbc ./autogen/sl_event_handler.o
+ .debug_frame   0x00000198      0x100 ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .debug_frame   0x00000298       0x3c ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .debug_frame   0x000002d4       0x84 ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .debug_frame   0x00000358       0x64 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .debug_frame   0x000003bc      0x114 ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .debug_frame   0x000004d0       0x20 ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .debug_frame   0x000004f0      0x110 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .debug_frame   0x00000600       0xb0 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .debug_frame   0x000006b0       0xa0 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .debug_frame   0x00000750      0x54c ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .debug_frame   0x00000c9c      0x194 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .debug_frame   0x00000e30      0x168 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .debug_frame   0x00000f98       0xd8 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .debug_frame   0x00001070      0x1fc ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .debug_frame   0x0000126c      0x1b0 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .debug_frame   0x0000141c      0x24c ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .debug_frame   0x00001668       0x20 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init.o
+ .debug_frame   0x00001688       0x34 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .debug_frame   0x000016bc       0x2c ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .debug_frame   0x000016e8      0x160 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .debug_frame   0x00001848       0x40 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .debug_frame   0x00001888       0x2c ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .debug_frame   0x000018b4       0x2c ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o
+ .debug_frame   0x000018e0       0xac e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000198c       0x28 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x000019b4      0x144 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00001af8       0x6c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .debug_frame   0x00001b64       0x20 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00001b84       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x00001bbc       0x2c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+ .debug_frame   0x00001be8       0xb0 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00001c98       0x38 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00001cd0       0x4c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00001d1c       0x30 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00001d4c       0x90 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .debug_frame   0x00001ddc       0x60 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_frame   0x00001e3c       0x28 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .debug_frame   0x00001e64       0x2c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00001e90       0x28 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+ .debug_frame   0x00001eb8       0x28 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00001ee0       0x3c e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .debug_frame   0x00001f1c       0x20 e:/thiot/setup/developer/toolchains/gnu_arm/12.2.rel1_2023.7/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+
+.debug_loc      0x00000000     0x7f22
+ .debug_loc     0x00000000      0x257 ./main.o
+ .debug_loc     0x00000257      0x152 ./autogen/sl_event_handler.o
+ .debug_loc     0x000003a9      0x24a ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_control_gpio.o
+ .debug_loc     0x000005f3       0x2c ./simplicity_sdk_2024.6.2/hardware/board/src/sl_board_init.o
+ .debug_loc     0x0000061f      0x31e ./simplicity_sdk_2024.6.2/hardware/driver/configuration_over_swo/src/sl_cos.o
+ .debug_loc     0x0000093d      0x18c ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/startup_efr32mg21.o
+ .debug_loc     0x00000ac9      0x17b ./simplicity_sdk_2024.6.2/platform/Device/SiliconLabs/EFR32MG21/Source/system_efr32mg21.o
+ .debug_loc     0x00000c44       0x2a ./simplicity_sdk_2024.6.2/platform/common/src/sl_assert.o
+ .debug_loc     0x00000c6e      0x141 ./simplicity_sdk_2024.6.2/platform/common/src/sl_core_cortexm.o
+ .debug_loc     0x00000daf      0x118 ./simplicity_sdk_2024.6.2/platform/common/src/sl_syscalls.o
+ .debug_loc     0x00000ec7      0x229 ./simplicity_sdk_2024.6.2/platform/driver/debug/src/sl_debug_swo.o
+ .debug_loc     0x000010f0     0x3936 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_cmu.o
+ .debug_loc     0x00004a26      0x348 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_emu.o
+ .debug_loc     0x00004d6e      0x8b9 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_gpio.o
+ .debug_loc     0x00005627      0x160 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_system.o
+ .debug_loc     0x00005787      0xa32 ./simplicity_sdk_2024.6.2/platform/emlib/src/em_usart.o
+ .debug_loc     0x000061b9      0x603 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager.o
+ .debug_loc     0x000067bc     0x10e9 ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_hal_s2.o
+ .debug_loc     0x000078a5       0xda ./simplicity_sdk_2024.6.2/platform/service/clock_manager/src/sl_clock_manager_init_hal_s2.o
+ .debug_loc     0x0000797f       0x2c ./simplicity_sdk_2024.6.2/platform/service/device_init/src/sl_device_init_emu_s2.o
+ .debug_loc     0x000079ab      0x476 ./simplicity_sdk_2024.6.2/platform/service/interrupt_manager/src/sl_interrupt_manager_cortexm.o
+ .debug_loc     0x00007e21       0xa9 ./simplicity_sdk_2024.6.2/platform/service/memory_manager/src/sl_memory_manager_region.o
+ .debug_loc     0x00007eca       0x2c ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_init.o
+ .debug_loc     0x00007ef6       0x2c ./simplicity_sdk_2024.6.2/platform/service/system/src/sl_system_process_action.o

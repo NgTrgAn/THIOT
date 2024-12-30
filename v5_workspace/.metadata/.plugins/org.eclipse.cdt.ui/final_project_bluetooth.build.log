@@ -1,0 +1,7 @@
+10:55:07 **** Build of configuration GNU ARM v12.2.1 - Default for project final_project_bluetooth ****
+make -j4 all 
+make: *** No rule to make target 'C:/Users/Admin/SimplicityStudio/v5_workspace/final_project_bluetooth/app.c', needed by 'app.o'.  Stop.
+"make -j4 all" terminated with exit code 2. Build might be incomplete.
+
+10:55:08 Build Failed. 1 errors, 0 warnings. (took 194ms)
+

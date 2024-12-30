@@ -1,0 +1,6 @@
+12:54:17 **** Incremental Build of configuration GNU ARM v12.2.1 - Default for project CK ****
+make -j4 all 
+Command canceled
+
+12:54:21 Build Cancelled. (took 3s.990ms)
+
